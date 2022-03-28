@@ -1,7 +1,5 @@
 - 👋 Hello, everyone! I'm @Kirill-Ershov, JavaDeveloper. 
 
-- 👀 I’m interested in ...
-- 
 - ✅ So far I've already learned:
     - Java (Java Core, Java Multithreading, Java Collections);
     - Git and GitHub;
@@ -17,11 +15,10 @@
     
 - 👀 Check my repo's to have a look at my projects.
 
-
-- 💞️ I’m looking to collaborate on ...
-- 
 - You can reach me:
-    - 
+    - Telegram https://t.me/prosto_nickname
+    - Email: kirill.ershov.999@yandex.ru
+    - Phone: +7 (919) 686-22-10
 
 <!---
 Kirill-Ershov/Kirill-Ershov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
