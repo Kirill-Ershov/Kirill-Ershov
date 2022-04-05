@@ -7,11 +7,14 @@
     - Hibernate;
     - Maven;
     - Spring boot + spring WebApp usage;
-    - REST basics;
-- 🕖 Upcoming goals are:
-    - PostgreSQL
     - Docker;
-    - JUnit;
+    - MongoDB;
+- 🕖 Upcoming goals are:
+    - Kubernetes <- learning right now!;
+    - Kafka / RabbitMQ;
+    - Elasticsearch;
+    - JUnit and testing;
+    - и далее зависит от стека
     
 - 👀 Check my repo's to have a look at my projects.
 
